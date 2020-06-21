@@ -42,6 +42,12 @@ sliderBL.addEventListener("input", (e) => {
     setRadius();
 });
 
+
+// // if it only got one slideAll slider on the top, you can do this:
+// sliderAll.addEventListener("input", (e) => {
+//     root.style.setProperty("--radius", e.target.value + '%');
+// });
+
 function setRadius() {
     radius = `${tl}% ${tr}% ${br}% ${bl}%`;
     root.style.setProperty("--radius", radius);
