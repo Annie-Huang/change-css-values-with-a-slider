@@ -1,6 +1,8 @@
 How To Change CSS Values With A Slider! - CSS Custom Properties (Variables) & JavaScript
 https://www.youtube.com/watch?v=FgSfzJPyxhg
-
 https://codepen.io/codeSTACKr/pen/MWKJzWe
 
+https://github.com/Annie-Huang/change-css-values-with-a-slider
 ======================================================
+
+C:\react\change-css-values-with-a-slider>npm init -y
